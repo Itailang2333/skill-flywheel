@@ -12,6 +12,8 @@ Once installed, the agent reviews every finished multi-step task and asks: **is 
 task → self-check (8+ steps? tricky bug? reusable flow?) → dedup → write SKILL.md → shelf +1 → reuse next time
 ```
 
+**It doesn't just write new books — it repairs old ones.** After using any skill, the agent must run the four-question reflection — outdated? wrong? missing steps? badly worded? — and fix problems on the spot before wrapping up. The loop covers skills it didn't author: upgrading third-party skills follows three disciplines — (1) leave a trail (changes + reason + date recorded in that skill's own changelog), (2) never fake authorship, (3) keep fork accounting against upstream updates. The shelf doesn't just grow — it gets **sharper with use**. That's the flywheel's second turn.
+
 ## Why it's not just another prompt pack
 
 1. **SDO descriptions** — skill `description` fields contain only triggers and keywords, never a workflow summary. Summaries in descriptions teach the agent to shortcut around the body (empirical finding from obra/superpowers).

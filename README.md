@@ -53,7 +53,7 @@ cp -r skill-flywheel ~/.dsh/skills/skill-flywheel
 
 ## 出处与致谢
 
-- **思想源头**：作者内部生产平台 **WorkBuddy** 的 **skill-accumulation** 机制（内部名经作者核实）。本仓库是该机制的通用化开源复刻——正文实现不依赖 WorkBuddy。
+- 思想源自 WorkBuddy 的 skill-accumulation 机制。
 - **description 学科**（触发式写法、借口-反驳表、配方优于禁令）借鉴 [obra/superpowers](https://github.com/obra/superpowers) 的 writing-skills（MIT License）——本仓库以同许可证归还社区。
 - 感谢公开 Agent 技能生态（awesome-claude-code / awesome-skills 等）的启发。
 

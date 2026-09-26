@@ -153,7 +153,7 @@ python <skill基目录>/scripts/new_skill.py \
 
 ## 参考（本 skill 的设计来源）
 
-- 思想源头：作者内部平台 WorkBuddy 的 **skill-accumulation** 机制（内部名经作者核实；见 README「出处与致谢」）。
+- 思想源自 WorkBuddy 的 skill-accumulation 机制（详见 README「出处与致谢」）。
 - obra/superpowers writing-skills（MIT）：description 触发式写法（SDO）、借口-反驳表、配方优于禁令。
 
 ## 修订记录

@@ -28,7 +28,7 @@
 ## 30 秒上手（DeepSeek Harness）
 
 ```bash
-git clone https://github.com/Itailang2333/skill-flywheel.git
+git clone https://github.com/b-c-maker/skill-flywheel.git
 cp -r skill-flywheel ~/.dsh/skills/skill-flywheel
 ```
 
@@ -63,4 +63,4 @@ cp -r skill-flywheel ~/.dsh/skills/skill-flywheel
 
 ## License
 
-[MIT](LICENSE) © 2026 Itailang2333
+[MIT](LICENSE) © 2026 b-c-maker

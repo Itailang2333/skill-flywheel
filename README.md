@@ -1,5 +1,7 @@
 # skill-flywheel 🎡
 
+简体中文（本文件） | [English](README.en.md)
+
 > **让 Agent 跑完活自己写技能——能力随使用复利增长。**
 > Every task makes your agent stronger: a markdown-only meta-skill that makes agents sediment reusable workflows into skills, on their own.
 
